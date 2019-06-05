@@ -1,0 +1,29 @@
+{
+  "name": "bar-app",
+  "version": "1.0.0",
+  "description": "App that helps multiple users find a bar in a central location for all of them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leovschie/bar-app.git"
+  },
+  "author": "Leo van Schie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leovschie/bar-app/issues"
+  },
+  "homepage": "https://github.com/leovschie/bar-app#readme",
+  "dependencies": {
+    "@spatial/center": "^1.0.4",
+    "@turf/center": "^6.0.1",
+    "@turf/turf": "^5.1.6",
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "geojson": "^0.5.0"
+  }
+}

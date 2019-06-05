@@ -1,0 +1,39 @@
+* {
+  font-family: arial;
+}
+.main {
+  display: flex;
+  height: 90%;
+  width: 90%;
+  background: rgb(37, 126, 209);
+  border-radius: 25%;
+  color: white;
+  padding: 10%;
+  font-size: 20px;
+}
+
+.intro {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.addressform {
+  width: 100%;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+::placeholder {
+  color: pink;
+}
+
+input {
+  color: pink;
+}
