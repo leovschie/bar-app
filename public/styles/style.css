@@ -107,13 +107,11 @@ input,
 }
 
 .result {
-  /* padding-top: 5%; */
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
   margin-bottom: 5%;
-  /* border: 3px solid white; */
 }
 .barName {
   text-transform: uppercase;
@@ -176,9 +174,6 @@ a:hover {
 .button:hover,
 .tryAgainButton:hover {
   background-size: 4px 50px;
-}
-
-.tryAgain {
 }
 
 .navlink {
