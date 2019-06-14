@@ -403,9 +403,6 @@ circle[id^="liquid-bubble"]:nth-child(12) {
 
 @media (max-width: 700px) {
   .main {
-    margin: 0;
-    flex-flow: column wrap;
-    margin: 0;
-    padding: 5%;
+    height: 100%;
   }
 }
