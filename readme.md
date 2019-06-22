@@ -1,4 +1,5 @@
 MidPint
+
 An app that reads from several API's in order to help its users select a highly rated bar that is at the midpoint of their relative locations.
 
 Answer the following questions:
